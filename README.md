@@ -5,6 +5,7 @@
 ---
 
 ## English
+<img width="2560" height="1440" alt="20261028_135827" src="https://github.com/user-attachments/assets/cedb7148-b268-4d44-8f2b-ef1f3d8dc300" />
 
 Removes the local Windscribe account record from the Windows registry, with automatic backup.
 
@@ -35,6 +36,7 @@ This only affects the local record on your computer. It does not change anything
 ---
 
 ## فارسی
+<img width="2560" height="1440" alt="20261028_140559" src="https://github.com/user-attachments/assets/c923c4ad-0bc5-42e8-9663-b8e64f5da510" />
 
 رکورد محلی حساب Windscribe را از رجیستری ویندوز پاک می‌کند، همراه با بکاپ خودکار.
 
